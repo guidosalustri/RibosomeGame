@@ -1,0 +1,23 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://sub2.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Ribo.gd" type="Script" id=2]
+[ext_resource path="res://rib.tscn" type="PackedScene" id=3]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 47.5, 101 )
+
+[node name="Ribo" type="KinematicBody2D"]
+position = Vector2( 613, 450 )
+collision_layer = 0
+collision_mask = 8
+script = ExtResource( 2 )
+
+[node name="Area2D" parent="." instance=ExtResource( 3 )]
+
+[node name="sub2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 0, 118 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 2.5, 55 )
+shape = SubResource( 1 )
