@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gem_health.png-5d6f6221165426913307319a65811f7a.stex"
+path="res://.import/gem_lightning.png-3e689fc72abbbee9da770d945108877d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scoreboard/Inventory/assets/gem_health.png"
-dest_files=[ "res://.import/gem_health.png-5d6f6221165426913307319a65811f7a.stex" ]
+source_file="res://assets/more-assets/gem_lightning.png"
+dest_files=[ "res://.import/gem_lightning.png-3e689fc72abbbee9da770d945108877d.stex" ]
 
 [params]
 

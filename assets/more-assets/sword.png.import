@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gem_ice.png-d6aef276da68f3f2ca75f0100a6f2da8.stex"
+path="res://.import/sword.png-1c696c86ad14c4f69c09c2be46b7fc59.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scoreboard/Inventory/assets/gem_ice.png"
-dest_files=[ "res://.import/gem_ice.png-d6aef276da68f3f2ca75f0100a6f2da8.stex" ]
+source_file="res://assets/more-assets/sword.png"
+dest_files=[ "res://.import/sword.png-1c696c86ad14c4f69c09c2be46b7fc59.stex" ]
 
 [params]
 

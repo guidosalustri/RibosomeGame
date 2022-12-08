@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/gem_fire.png-d414bcf2d88c797c17a26e4ae0172132.stex"
+path="res://.import/gem_ice.png-30c25751a3e6c4e62647109874b4acb2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scoreboard/Inventory/assets/gem_fire.png"
-dest_files=[ "res://.import/gem_fire.png-d414bcf2d88c797c17a26e4ae0172132.stex" ]
+source_file="res://assets/more-assets/gem_ice.png"
+dest_files=[ "res://.import/gem_ice.png-30c25751a3e6c4e62647109874b4acb2.stex" ]
 
 [params]
 

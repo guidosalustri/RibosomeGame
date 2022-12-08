@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword.png-425cac09db2b772bb364d9592171e695.stex"
+path="res://.import/gem_fire.png-158d69d6663d1fd2101d89572ec00572.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Scoreboard/Inventory/assets/sword.png"
-dest_files=[ "res://.import/sword.png-425cac09db2b772bb364d9592171e695.stex" ]
+source_file="res://assets/more-assets/gem_fire.png"
+dest_files=[ "res://.import/gem_fire.png-158d69d6663d1fd2101d89572ec00572.stex" ]
 
 [params]
 
