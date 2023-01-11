@@ -1,0 +1,21 @@
+##Ribosome
+
+
+Ribosome is a prototype built on godot engine intended as a segment of a larger interactive educational experience.
+Which is designed to tackle the central dogma of molecular biology using different interactive tools, games and simulations.
+
+Ribosome revolves around cell translation, meaning decoding RNA to amino acids chains.
+It is meant as a tool for children to learn and explore in a playful way the cell translation process on a molecular level, where a sequence of ARN need to be typed for the game to start.
+The Input to build the sequence can only be A/C/G/U , letter that represent the RNA nucleotides (letters other than those will make the prototype crash).
+Once the input  is loaded the player needs to move the ribosome, pick up the ARN sequence and start collecting the right amino acids that match the ARN codons.
+If the wrong amino acid is picked, it will get stuck in the ribosome for a short while making the player lose time.
+The game is scored by a timer.
+
+The game aims to teach in two levels.
+By playing it one will be guided through learning molecular biology and decoding biological sequences.
+However, by learning how to code the game one could gain insights of basic programming skills, such as building dictionaries for decoding the  ARN codons to amino acids or the physics of moving objects in general.
+
+So far the dynamic of the game and the physics had been code but the biological decoding still need to be done so for now the matching from codons to amino acids is just by colors. 
+Sorry :)
+
+
