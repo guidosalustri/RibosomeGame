@@ -10,7 +10,6 @@ The game intends to teach in two different levels. By just playing it, one will 
 So far the dynamic of the game and the physics has been coded but the biological decoding
 still needs to be done, so for the time being, the matching from codons to amino acids is just by colors. Nevertheless, the prototype still gives a  fair good idea of how the game will work.
 
-
 As mentioned before Ribosome is a segment of a larger interactive educational experience composed of other three segments. Each segment explores a mechanism which is key for all cell functions: DNA replication, transcription, translation and protein folding to native structure. After being introduced to these processes, learners are intended to solve puzzles or interactive games that will provide further insights and understanding of the topics with a hand-on approach.
 
 For example, for the transcription segment a puzzle may be presented where transcription factors and other molecules will need to be properly assembled in the DNA recognition segments (such as TATA-box, etc.) of a given gene for transcription to begin. We aim in this way to create a proper environment for students to incorporate such concepts while always keeping in mind that fun is a key tool  to improve learning and focus.
